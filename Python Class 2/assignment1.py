@@ -1,0 +1,12 @@
+name = input("Enter student's name: ")
+class1 = input("Enter student's class: ")
+hindi = int(input("Enter marks in subject Hindi: "))
+science = int(input("Enter marks in subject Science: "))
+math = int(input("Enter marks in subject Math: "))
+sst = int(input("Enter marks in subject SST: "))
+computer = int(input("Enter marks in subject Computer: "))
+total_marks = hindi + science + math + sst + computer
+percentage = float((total_marks/500)*100)
+print("Name of student:",name)
+print("Class of student:",class1)
+print("Percentage:",percentage) 
