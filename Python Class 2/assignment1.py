@@ -1,4 +1,4 @@
-#Write a python program that takes in a student name, class. It should also take in five subject marks of the students and find the total mark and percentage. Display a result in such a way that their name, class,  and percentage are printed:
+#1)Write a python program that takes in a student name, class. It should also take in five subject marks of the students and find the total mark and percentage. Display a result in such a way that their name, class,  and percentage are printed:
 
 #Taking name and class from user
 name = input("Enter student's name: ")
