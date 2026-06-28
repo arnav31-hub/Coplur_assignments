@@ -1,0 +1,5 @@
+Topics Covered in Today's class:
+ 1) How to Create/edit a File using python python
+ 2) What is CSV file
+ 3) How to create/edit a csv file using python
+ 4) Use of OS.path Module to check if a file exists
